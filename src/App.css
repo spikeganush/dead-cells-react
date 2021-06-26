@@ -173,12 +173,15 @@ img {
 .copyright {
   text-align: center;
   color: #f9cf87;
+  margin-block-start: 0;
+  margin-block-end: .2em;
 }
+
 
 
 .social {
   text-align: center;
-  padding: 1em;
+  padding-block-start: 1em;
 }
 
 .social a {
